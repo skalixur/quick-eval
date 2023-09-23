@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "enquirer": "^2.4.1"
+  },
+  "type": "module"
 }
