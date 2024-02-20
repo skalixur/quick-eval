@@ -1,4 +1,5 @@
-quickeval.cmd
+*.cmd
+.gitignore
 
 # Logs
 logs
